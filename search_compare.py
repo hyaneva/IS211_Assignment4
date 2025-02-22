@@ -1,14 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[235]:
 
 
 import time
 import random
 
 
-# In[249]:
+
 
 
 def get_me_random_list(n):
