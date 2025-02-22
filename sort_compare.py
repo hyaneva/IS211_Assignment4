@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[92]:
 
 
 import argparse
@@ -82,8 +78,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-# In[ ]:
 
 
 
